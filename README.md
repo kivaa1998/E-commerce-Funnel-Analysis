@@ -1,1 +1,1 @@
-# SQL-Project
+# E-commerce Funnel Analysis 
